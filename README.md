@@ -5,9 +5,17 @@ Led martix arduino
 This library is designed to work with only one 8x8 1088AS matrix, without using additional drivers.
 Details on the website https://mht11.ru/
 
+result:
+https://youtu.be/bibbRqdC5ZY?si=sVN_Tk-YHhIend4q
+https://dzen.ru/video/watch/66e6dbb420050043340572af
+
 # Описание на русском языке
 Данная библиотка предназначена для работы, только с одной матрицей 8x8 1088AS, без использоания дополнительных драйверов.
 Подробности на сайте https://mht11.ru/
+
+результат:
+https://youtu.be/bibbRqdC5ZY?si=sVN_Tk-YHhIend4q
+https://dzen.ru/video/watch/66e6dbb420050043340572af
 
 # Использование:
 
