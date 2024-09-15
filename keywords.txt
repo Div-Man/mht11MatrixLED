@@ -1,0 +1,5 @@
+mht11MatrixLED	KEYWORD1
+begin	KEYWORD2
+clearMatrix	KEYWORD2
+displayCharacter	KEYWORD2
+displayText	KEYWORD2
